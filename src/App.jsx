@@ -32,7 +32,7 @@ function Hero() {
         <div className="btns">
           <a className="btn main" href="#projects">View projects</a>
           <a className="btn" href="#contact">Contact me</a>
-          <a className="btn" href="/Fazil-Ahamed-S-Resume.pdf" download>Download résumé</a>
+          <a className="btn" href="/Fazil-Ahamed-S-Resume.pdf" download>Download resume</a>
         </div>
       </div>
       <aside className="card profile" aria-label="Profile summary">

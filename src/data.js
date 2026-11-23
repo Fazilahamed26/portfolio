@@ -28,7 +28,7 @@ export const projects = [
       "Booking system that prevents double bookings and updates statuses automatically, using FastAPI and SQLAlchemy REST APIs connected to a React (Axios) frontend.",
     ],
     tags: ["React.js", "FastAPI", "Python", "SQLite", "SQLAlchemy", "JWT"],
-    link: "https://real-estate-crm-frontend-lrio.onrender.com/login",
+    link: "https://real-estate-crm-frontend-lrio.onrender.com/",
   },
   {
     title: "Expense Tracker",
