@@ -48,7 +48,7 @@ export const projects = [
       "Evaluated with standard ML metrics, with visual insights to support decisions.",
     ],
     tags: ["Python", "Scikit-Learn"],
-    link: "",
+    link: "https://ai-disaster-prediction-liard.vercel.app/",
   },
 ];
 
